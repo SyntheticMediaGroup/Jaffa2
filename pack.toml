@@ -1,0 +1,12 @@
+name = "Jaffa Factory 2 (Replica)"
+version = "18/12"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bdcc753221aa941f390344fde856201c96feabe340e5fbf3d49321584f038379"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
