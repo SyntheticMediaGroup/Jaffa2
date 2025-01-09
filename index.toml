@@ -1022,6 +1022,11 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "e648a83707d4ddfedd27a6459c32853e4565f19eaa388246484857c053444930"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
 metafile = true
@@ -1293,7 +1298,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "512f27fb0eae5e7e3fb9ff66f5d8f83b47fcbc15e5cbdf59fdf9f6f6d2c480cc"
+hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
 metafile = true
 
 [[files]]
@@ -1579,11 +1584,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "30b94b72dafc04ff185d1b63034f4c50fd1ddb63f6a7486fa5860b801fe82d00"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "0aa2743126e1be844e11963c7dd3b3d245d1b0949c3c0a6a7d100798a228ab35"
 metafile = true
 
 [[files]]
