@@ -1632,6 +1632,11 @@ hash = "c7303b109577a683aef185c43912e4e9194397ddd40c562880468937136af0af"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "967d54afd260f9b42fcc9b85d590b931e52cd00d5833536260c3bd1897013093"
 metafile = true
@@ -1699,6 +1704,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "82ef1258b8647dd8ce061f25f35e8913fa3e98fe291157ef4a13eac42fa7f2b8"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
