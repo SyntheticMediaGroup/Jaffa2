@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "529a42cc98713a371e66f12395f9d4598125f42357360eba93b452ce13464a48"
+
+[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
 metafile = true
@@ -1487,6 +1491,11 @@ hash = "f14ad088fde80c41bf43bad9436535944b1f2cb66bb4b9326480d2d3afa1c07a"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "38ea2676136952bde1c1653e2a432fdbae0cb71c6be093488d7d2a375bfecc0a"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "2b8bfaabf74a2c8fb5f2753e2585f8700ed2877d640e86505110d4360b0adc32"
 metafile = true
@@ -1679,6 +1688,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-integration.pw.toml"
 hash = "ed869df5d51c4496840f3d5fb2c9d86bab6cf25f8b12eb7dda139aaa65b18d05"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "d9d4a7d44e572da878625691f049ad0e2877e9d75fb0863fdea866ea9a739b62"
 metafile = true
 
 [[files]]
