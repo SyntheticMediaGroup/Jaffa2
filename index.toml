@@ -1676,6 +1676,11 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "1603a2d57a71762925e57c61ae45649bf6aab128295a31efec214b0676c79024"
 metafile = true
