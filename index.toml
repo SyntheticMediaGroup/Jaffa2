@@ -1122,6 +1122,11 @@ hash = "6f9ada4ae8dfcf29a7071e0eec596d8408e6e9091385db8fd1cddd0c2d89217a"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "ee37851fa61e60f3a8fbd606aed57d88e77cc2c129abdea99fe1120423ad4bb8"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "70203eccb52079014b1438e6488730cebb84e52aa0daf516211b4587a49bdb1e"
 metafile = true
@@ -1309,11 +1314,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
-metafile = true
-
-[[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "711d05571002864806ace9c942fddbcf0d39aa07d50904c8f6a74b11b8b8829f"
 metafile = true
 
 [[files]]
@@ -1537,6 +1537,11 @@ hash = "62ea482ac91a33981539636b65ca2b0d28f46a5dd193742da06e932468536970"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
@@ -1594,6 +1599,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "5922477d07b7331f7659766c0d79d8c54ae2b77680f6473abef3199ee8296b8c"
 metafile = true
 
 [[files]]
