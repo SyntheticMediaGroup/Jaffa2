@@ -1281,6 +1281,11 @@ hash = "e070f775c1f909298453169788642d63c8058af7df55a51dc877bcc2675725b2"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
 metafile = true
