@@ -1236,6 +1236,11 @@ hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
+metafile = true
+
+[[files]]
 file = "mods/create-mechanical-spawner.pw.toml"
 hash = "3594548c25d13afdc7d17f726ccf83840a7d4ae604b3b5d2e9307331aea03244"
 metafile = true
@@ -1463,6 +1468,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "600d67f2aca5df16c7cc4526583f852b569049cd052beb9efc465cbe247c0d64"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "fcb27576964bc17e215bd6b0514e77186f553582f476656c84f57dc96be76a5e"
 metafile = true
 
 [[files]]
