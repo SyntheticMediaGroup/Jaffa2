@@ -5,11 +5,6 @@ file = "README.md"
 hash = "529a42cc98713a371e66f12395f9d4598125f42357360eba93b452ce13464a48"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "59da31b1a0add66422b1e86676db55efe0864c91abc6706203282f213062269a"
-metafile = true
-
-[[files]]
 file = "config/Mekanism/client.toml"
 hash = "31528ab3e12f1a0e080d66afa1c1a3a8ae73c704e385315295fb4e3857c2bcd4"
 
@@ -1291,6 +1286,11 @@ hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "c399ce70be05d3c53a0c54cd8f5b5b4301f225be6f6d6cbdf34cf221ea439126"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "92d4db1c37b50135a998bd36f8aff6d87a2753616e03db3fdb9ff478c3e47e3b"
 metafile = true
@@ -1371,8 +1371,18 @@ hash = "5c7c4b36c5f55ab35da64788cbc951eeca254d7d2388ddd5e9cf5a9776e44a93"
 metafile = true
 
 [[files]]
+file = "mods/fastboot.pw.toml"
+hash = "d4b18897dbe6c897b49afd13ccd6402c6a8aeb4935e94e98414d594a4f67791f"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "832e8a46a8abf0363eeeea3f860b6b8ec5af2e9e8bb717be03fee848470dd538"
 metafile = true
 
 [[files]]
@@ -1501,6 +1511,16 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "bbbef26097069430126ba44de152dda9c72c8b2ec2ff3c5036d526f069de8c09"
 metafile = true
@@ -1571,6 +1591,11 @@ hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
@@ -1578,6 +1603,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
 hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "f8ac90b649f7e3cd82a98d9a38ee58fc7df6853354aef4a488b26b78286b2dc4"
 metafile = true
 
 [[files]]
@@ -1598,6 +1628,11 @@ metafile = true
 [[files]]
 file = "mods/project-red-core.pw.toml"
 hash = "be79385fd15ac139a7a5f7b3783d332d01b7d81b8b61660500b19c3b5cc527b0"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "dbb83ae72868c1d9a3b4c2a32b7f083348ee427ecffc4b149010f7eca7c310c5"
 metafile = true
 
 [[files]]
@@ -1628,6 +1663,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "3602f220a9d98e89d44168a6e84dc7bb169fb8b8209b4b966288d1fa1c3650bc"
 metafile = true
 
 [[files]]
@@ -1811,3 +1851,8 @@ hash = "1dc39f5e3969e64d18743e92c5989625cbe5f6b153c9474ca0168c8cee621c0c"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip.txt"
 hash = "d5efd37d120f758d531e7fdf6b4cbf4af1f58564a264279c96fd14a63542b767"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "59da31b1a0add66422b1e86676db55efe0864c91abc6706203282f213062269a"
+metafile = true
