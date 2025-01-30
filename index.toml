@@ -1606,6 +1606,11 @@ hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "4cd211200d17b109bb15f88c7b0c6ba29d9c0af6d2feb76fc7fe4eabff2e4ffe"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
