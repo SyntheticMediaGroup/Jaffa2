@@ -1122,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/cb-multipart.pw.toml"
-hash = "6f9ada4ae8dfcf29a7071e0eec596d8408e6e9091385db8fd1cddd0c2d89217a"
+hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
 metafile = true
 
 [[files]]
@@ -1642,7 +1642,12 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "be79385fd15ac139a7a5f7b3783d332d01b7d81b8b61660500b19c3b5cc527b0"
+hash = "4d59e746d59786bdf7431fdb5cd2e7c2c36f079c693b3bed54476681ae3206bf"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "bd2f19bb87df2bba7463db458fb21e742256593499ba10afb9073962daa21e52"
 metafile = true
 
 [[files]]
