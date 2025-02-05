@@ -1251,6 +1251,11 @@ hash = "3594548c25d13afdc7d17f726ccf83840a7d4ae604b3b5d2e9307331aea03244"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "07bc61993957000b9c2ff6e1e5c0a4ef246aa18745f70a7a8c1c875b7b2bddd7"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "cb7b31c785f6e7466951c7b2b221d9c89f065e7930a36ac1a575e40d54404bb3"
 metafile = true
